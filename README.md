@@ -3,6 +3,6 @@ experts was once beginners too! so Im here just to help you ease out the process
 
 
 
-  <p>1. What is Arduino</p>
+  <p>*1. What is Arduino</p>*
   ....
 
