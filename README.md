@@ -2,7 +2,7 @@
 experts was once beginners too! so Im here just to help you ease out the process on physical computing. JUST with 10 steps :)
 
 
-<o1>
-  <p><1i>What is Arduino</1i></p>
+
+  <p>1. What is Arduino</p>
   ....
-</o1>
+
