@@ -4,5 +4,5 @@ experts was once beginners too! so Im here just to help you ease out the process
 
 <o1>
   <p><1i>What is Arduino</1i></p>
-  onconvon
+  ....
 </o1>
