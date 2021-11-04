@@ -35,7 +35,7 @@ SO DONT! lol
 
 
 
- <p><h8>5. Blink: Digital Outputs  </h6></p>
+ <p><h6>5. Blink: Digital Outputs  </h6></p>
  When you plug in your Arduino for the first time, you'll see a green light (with 'ON' written next to it - this is the power LED) and an orange light that blinks (with 'L' written next to it). This is the default 'Blink' program, it turns the internal LED on for a second, then turns it off for a second, repeating forever. UNDERSTAND THIS hehe. In the setup, that only runs once when the program is started, we set pin 13 as an output.
 In the loop, we make the output of the led HIGH (5v), wait 1,000ms, make it LOW (0v) and wait for another second. This loop will be repeated forever (at least until you restart the Arduino, or upload another program)
  
